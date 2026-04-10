@@ -1,9 +1,9 @@
 {
-  "name": "ccsessions",
+  "name": "cctape",
   "version": "0.1.0",
   "description": "Browse Claude Code session logs (~/.claude/projects/) as beautiful HTML in your browser",
   "bin": {
-    "ccsessions": "./bin/ccsessions.js"
+    "cctape": "./bin/cctape.js"
   },
   "files": [
     "bin",
@@ -15,7 +15,7 @@
     "node": ">=18"
   },
   "scripts": {
-    "start": "node bin/ccsessions.js"
+    "start": "node bin/cctape.js"
   },
   "dependencies": {},
   "keywords": [
@@ -32,10 +32,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashimon83/ccsessions.git"
+    "url": "git+https://github.com/ashimon83/cctape.git"
   },
-  "homepage": "https://github.com/ashimon83/ccsessions#readme",
+  "homepage": "https://github.com/ashimon83/cctape#readme",
   "bugs": {
-    "url": "https://github.com/ashimon83/ccsessions/issues"
+    "url": "https://github.com/ashimon83/cctape/issues"
   }
 }

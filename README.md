@@ -1,4 +1,4 @@
-# ccsessions
+# cctape
 
 A CLI tool to browse Claude Code session logs (`~/.claude/projects/`) as beautiful HTML in your browser.
 
@@ -7,14 +7,14 @@ A CLI tool to browse Claude Code session logs (`~/.claude/projects/`) as beautif
 ### npx
 
 ```bash
-npx ccsessions
+npx cctape
 ```
 
 ### Run from source
 
 ```bash
-git clone git@github.com:ashimon83/ccsessions.git
-cd ccsessions
+git clone git@github.com:ashimon83/cctape.git
+cd cctape
 npm start
 ```
 
@@ -39,7 +39,7 @@ A local HTTP server starts and your browser opens automatically.
 
 ```bash
 # Custom port (default: 3333)
-CCSESSIONS_PORT=3000 npx ccsessions
+CCTAPE_PORT=3000 npx cctape
 ```
 
 ## Requirements
