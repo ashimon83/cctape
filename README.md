@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/logo.png" alt="ccakashic logo" width="160" />
+  <img src="https://raw.githubusercontent.com/ashimon83/ccakashic/main/assets/logo.png" alt="ccakashic logo" width="160" />
 </p>
 
 # ccakashic
 
 An Akashic Record of your Claude Code sessions — browse Claude Code session logs (`~/.claude/projects/`) as beautiful HTML in your browser.
 
-![Session detail with stats, cost badges, and chat layout](docs/screenshot1.png)
+![Session detail with stats, cost badges, and chat layout](https://raw.githubusercontent.com/ashimon83/ccakashic/main/docs/screenshot1.png)
 
-![Collapsible tool calls, code blocks, and per-message cost](docs/screenshot2.png)
+![Collapsible tool calls, code blocks, and per-message cost](https://raw.githubusercontent.com/ashimon83/ccakashic/main/docs/screenshot2.png)
 
 ## Usage
 
