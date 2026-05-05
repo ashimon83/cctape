@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="ccakashic logo" width="160" />
+</p>
+
 # ccakashic
 
 An Akashic Record of your Claude Code sessions — browse Claude Code session logs (`~/.claude/projects/`) as beautiful HTML in your browser.
